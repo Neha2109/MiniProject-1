@@ -6,7 +6,7 @@ The ability to predict someone's personality can have numerous applications, ran
 # Dataset
 We collected primary data from college students using Google Forms. A total of 138 volunteers participated, aged between 18 to 25 years, with 7 females and the rest males. The form had 38 questions related to five personality traits and an image section where volunteers uploaded their frontal facial image without glasses. Each question was rated on a scale of 0 to 5. The data is stored on a Google Drive accessible only to team members to ensure privacy. However, since there was no invigilator present during data collection, there may be potential biases in the data.
 
-                      ![dataset](https://github.com/Neha2109/MiniProject-1/assets/78674240/d1c294dd-02bf-443d-b49c-3ecf13311f60)       
+![dataset](https://github.com/Neha2109/MiniProject-1/assets/78674240/0e74d890-b6ca-4240-85b0-e377cbc622c2)
 
 # Challenges Faced
 Low accuracy rate of 43 percent due to limited dataset size.
