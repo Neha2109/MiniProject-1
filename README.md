@@ -14,3 +14,4 @@ Lack of expertise in facial feature extraction affecting the precision of featur
 Absence of a personality expert impacting the accuracy of the questionnaire design.
 Questionnaire not filled in the presence of an invigilator, potentially leading to errors in responses.
 Missing facial pictures from some volunteers resulting in reduced sample size and potential bias.
+Accuracy reached to 66.67% via alternative approach and techniques.
